@@ -2,7 +2,7 @@
 
 ## Description:
 
-DefGen allows you to create your personalized HTML defacing webpage integrated with CSS and JavaScript 
+DefGen allows you to create your personalized HTML defacing webpage pre-integrated with CSS and JavaScript 
 
 ## Installation
 ``` 
