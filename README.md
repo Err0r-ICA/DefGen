@@ -6,7 +6,7 @@ DefGen allows you to create your personalized HTML defacing webpage pre-integrat
 
 ## Installation
 ``` 
-pkg update&&upgrade -y;pkg install python2;git clone https://github.com/Err0r-ICA/DefGen
+pkg update -y&&pkg upgrade -y;pkg install python2;git clone https://github.com/Err0r-ICA/DefGen
 cd DefGen
 python2 DefGen
 ```
