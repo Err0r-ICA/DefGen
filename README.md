@@ -1,6 +1,6 @@
 # DefGen 💥<br>Deface HTML Page Generator
 
-![logo](https://i.postimg.cc/qJwVsmT0/OIG3-3.jpg) 
+![logo](https://i.postimg.cc/8TL1Fmjk/OIG4-2.jpg) 
 
 ## 📒 Description 📒
 
