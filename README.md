@@ -21,11 +21,7 @@ https://user-images.githubusercontent.com/59941931/147801342-fb688b56-71d3-42a2-
  
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/termuxxhacking)
-
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
-
-* [INSTAGRAM](https://instagram.com/termux_hacking)
+* [TELEGRAM](https://t.me/hacking1337stuff)
 
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
